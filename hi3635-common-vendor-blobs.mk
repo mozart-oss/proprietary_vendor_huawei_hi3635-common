@@ -5,4 +5,4 @@
 #
 
 PRODUCT_COPY_FILES += \
-	$(call find-copy-subdir-files,*,vendor/huawei/mozart/proprietary/,system/)
+	$(call find-copy-subdir-files,*,vendor/huawei/hi3635-common/proprietary/,system/)
